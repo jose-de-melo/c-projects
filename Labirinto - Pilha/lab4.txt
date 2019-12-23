@@ -1,0 +1,21 @@
+20;20;
+xxxxxxxxxxxxxxxxxxxx
+xb  bbb            s
+xxxxxxx xx         x
+xcb  c  xx         x
+x    c  xx         x
+x  c c  xx         x
+x  c b  xx         x
+x    c  xxxxxxxxx  x
+xxxxxxxxxx         x
+xxxxxxxxxxxxxxxxxx x
+xxxxxxxxxxxxxxxxxx x
+xb  bbb            x
+xxxxxxx xx         x
+xcb  c  xx         x
+x    c  xx         x
+x  c c  xx         x
+x  c b  xx         x
+x    c  xxxxxxxxx  x
+xxxxxxxxxx         x
+xxxxxxxxxxxxxxxxxxxx

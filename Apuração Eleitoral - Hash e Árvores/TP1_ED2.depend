@@ -1,0 +1,330 @@
+# depslib dependency file v1.0
+1492542974 source:c:\users\usuario\desktop\tp\tp1_ed2\gerenciaestruturas.c
+	"GerenciaEstruturas.h"
+	"stdlib.h"
+
+1492453128 c:\users\usuario\desktop\tp\tp1_ed2\gerenciaestruturas.h
+	"Hash_Duplo.h"
+	"Hash_AVL.h"
+	"Hash_ABP.h"
+	"CedulaEleitoral.h"
+
+1492523084 c:\users\usuario\desktop\tp\tp1_ed2\hash_duplo.h
+	"CedulaEleitoral.h"
+
+1492522486 c:\users\usuario\desktop\tp\tp1_ed2\cedulaeleitoral.h
+	"Constantes.h"
+
+1492522498 c:\users\usuario\desktop\tp\tp1_ed2\constantes.h
+
+1492451422 c:\users\usuario\desktop\tp\tp1_ed2\hash_avl.h
+	"CedulaEleitoral.h"
+
+1492426268 c:\users\usuario\desktop\tp\tp1_ed2\hash_abp.h
+	"CedulaEleitoral.h"
+
+1492453996 source:c:\users\usuario\desktop\tp\tp1_ed2\hash_abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash_ABP.h"
+
+1492522634 source:c:\users\usuario\desktop\tp\tp1_ed2\hash_apuracao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"hash_apuracao.h"
+	"Constantes.h"
+
+1492200696 c:\users\usuario\desktop\tp\tp1_ed2\hash_apuracao.h
+
+1492523942 source:c:\users\usuario\desktop\tp\tp1_ed2\hash_avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash_AVL.h"
+
+1492600739 source:c:\users\usuario\desktop\tp\tp1_ed2\hash_duplo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"Hash_Duplo.h"
+	"Hash.h"
+
+1492207800 source:c:\users\usuario\desktop\tp\tp1_ed2\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"Ordenacao.h"
+
+1492204050 c:\users\usuario\desktop\tp\tp1_ed2\ordenacao.h
+	"hash_apuracao.h"
+
+1492601088 source:c:\users\usuario\desktop\tp\tp1_ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CedulaEleitoral.h"
+	"Hash_Apuracao.h"
+	"GerenciaEstruturas.h"
+	"Ordenacao.h"
+	"Constantes.h"
+	"Hash_ABP.h"
+	"Hash_AVL.h"
+	"Hash_Duplo.h"
+
+1492539431 source:c:\users\usuario\desktop\tp1\tp\tp1_ed2\gerenciaestruturas.c
+	"GerenciaEstruturas.h"
+	"stdlib.h"
+
+1492453128 c:\users\usuario\desktop\tp1\tp\tp1_ed2\gerenciaestruturas.h
+	"Hash_Duplo.h"
+	"Hash_AVL.h"
+	"Hash_ABP.h"
+	"CedulaEleitoral.h"
+
+1492523084 c:\users\usuario\desktop\tp1\tp\tp1_ed2\hash_duplo.h
+	"CedulaEleitoral.h"
+
+1492522486 c:\users\usuario\desktop\tp1\tp\tp1_ed2\cedulaeleitoral.h
+	"Constantes.h"
+
+1492522498 c:\users\usuario\desktop\tp1\tp\tp1_ed2\constantes.h
+
+1492451422 c:\users\usuario\desktop\tp1\tp\tp1_ed2\hash_avl.h
+	"CedulaEleitoral.h"
+
+1492426268 c:\users\usuario\desktop\tp1\tp\tp1_ed2\hash_abp.h
+	"CedulaEleitoral.h"
+
+1492453996 source:c:\users\usuario\desktop\tp1\tp\tp1_ed2\hash_abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash_ABP.h"
+
+1492522634 source:c:\users\usuario\desktop\tp1\tp\tp1_ed2\hash_apuracao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"hash_apuracao.h"
+	"Constantes.h"
+
+1492200696 c:\users\usuario\desktop\tp1\tp\tp1_ed2\hash_apuracao.h
+
+1492523942 source:c:\users\usuario\desktop\tp1\tp\tp1_ed2\hash_avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash_AVL.h"
+
+1492540090 source:c:\users\usuario\desktop\tp1\tp\tp1_ed2\hash_duplo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"Hash_Duplo.h"
+	"Hash.h"
+
+1492534691 source:c:\users\usuario\desktop\tp1\tp\tp1_ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CedulaEleitoral.h"
+	"Hash_Apuracao.h"
+	"GerenciaEstruturas.h"
+	"Ordenacao.h"
+	"Constantes.h"
+	"Hash_ABP.h"
+	"Hash_AVL.h"
+	"Hash_Duplo.h"
+
+1492204050 c:\users\usuario\desktop\tp1\tp\tp1_ed2\ordenacao.h
+	"hash_apuracao.h"
+
+1492207800 source:c:\users\usuario\desktop\tp1\tp\tp1_ed2\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"Ordenacao.h"
+
+1492540018 source:c:\users\usuario\desktop\tp1\tp\tp1_ed2\hash.c
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1492522688 c:\users\usuario\desktop\tp1\tp\tp1_ed2\hash.h
+	"CedulaEleitoral.h"
+
+1492539432 source:j:\tp1\tp\tp1_ed2\gerenciaestruturas.c
+	"GerenciaEstruturas.h"
+	"stdlib.h"
+
+1492453128 j:\tp1\tp\tp1_ed2\gerenciaestruturas.h
+	"Hash_Duplo.h"
+	"Hash_AVL.h"
+	"Hash_ABP.h"
+	"CedulaEleitoral.h"
+
+1492523084 j:\tp1\tp\tp1_ed2\hash_duplo.h
+	"CedulaEleitoral.h"
+
+1492522486 j:\tp1\tp\tp1_ed2\cedulaeleitoral.h
+	"Constantes.h"
+
+1492522498 j:\tp1\tp\tp1_ed2\constantes.h
+
+1492451422 j:\tp1\tp\tp1_ed2\hash_avl.h
+	"CedulaEleitoral.h"
+
+1492426268 j:\tp1\tp\tp1_ed2\hash_abp.h
+	"CedulaEleitoral.h"
+
+1492453996 source:j:\tp1\tp\tp1_ed2\hash_abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash_ABP.h"
+
+1492522634 source:j:\tp1\tp\tp1_ed2\hash_apuracao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"hash_apuracao.h"
+	"Constantes.h"
+
+1492200696 j:\tp1\tp\tp1_ed2\hash_apuracao.h
+
+1492523942 source:j:\tp1\tp\tp1_ed2\hash_avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash_AVL.h"
+
+1492540092 source:j:\tp1\tp\tp1_ed2\hash_duplo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"Hash_Duplo.h"
+	"Hash.h"
+
+1492522688 j:\tp1\tp\tp1_ed2\hash.h
+	"CedulaEleitoral.h"
+
+1492534692 source:j:\tp1\tp\tp1_ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CedulaEleitoral.h"
+	"Hash_Apuracao.h"
+	"GerenciaEstruturas.h"
+	"Ordenacao.h"
+	"Constantes.h"
+	"Hash_ABP.h"
+	"Hash_AVL.h"
+	"Hash_Duplo.h"
+
+1492204050 j:\tp1\tp\tp1_ed2\ordenacao.h
+	"hash_apuracao.h"
+
+1492207800 source:j:\tp1\tp\tp1_ed2\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"Ordenacao.h"
+
+1492542236 source:j:\tp1\tp\tp1_ed2\hash.c
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1492600703 source:c:\users\usuario\desktop\tp\tp1_ed2\hash.c
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1492543320 c:\users\usuario\desktop\tp\tp1_ed2\hash.h
+	"CedulaEleitoral.h"
+
+1492629979 source:c:\users\usuario\downloads\tp1\tp\tp1_ed2\gerenciaestruturas.c
+	"GerenciaEstruturas.h"
+	"stdlib.h"
+
+1492453128 c:\users\usuario\downloads\tp1\tp\tp1_ed2\gerenciaestruturas.h
+	"Hash_Duplo.h"
+	"Hash_AVL.h"
+	"Hash_ABP.h"
+	"CedulaEleitoral.h"
+
+1492523084 c:\users\usuario\downloads\tp1\tp\tp1_ed2\hash_duplo.h
+	"CedulaEleitoral.h"
+
+1492522486 c:\users\usuario\downloads\tp1\tp\tp1_ed2\cedulaeleitoral.h
+	"Constantes.h"
+
+1492522498 c:\users\usuario\downloads\tp1\tp\tp1_ed2\constantes.h
+
+1492624922 c:\users\usuario\downloads\tp1\tp\tp1_ed2\hash_avl.h
+	"CedulaEleitoral.h"
+
+1492624264 c:\users\usuario\downloads\tp1\tp\tp1_ed2\hash_abp.h
+	"CedulaEleitoral.h"
+
+1492600704 source:c:\users\usuario\downloads\tp1\tp\tp1_ed2\hash.c
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1492543320 c:\users\usuario\downloads\tp1\tp\tp1_ed2\hash.h
+	"CedulaEleitoral.h"
+
+1492624262 source:c:\users\usuario\downloads\tp1\tp\tp1_ed2\hash_abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash_ABP.h"
+
+1492522634 source:c:\users\usuario\downloads\tp1\tp\tp1_ed2\hash_apuracao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"hash_apuracao.h"
+	"Constantes.h"
+
+1492200696 c:\users\usuario\downloads\tp1\tp\tp1_ed2\hash_apuracao.h
+
+1492630293 source:c:\users\usuario\downloads\tp1\tp\tp1_ed2\hash_avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash_AVL.h"
+
+1492626123 source:c:\users\usuario\downloads\tp1\tp\tp1_ed2\hash_duplo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"Hash_Duplo.h"
+	"Hash.h"
+
+1492630391 source:c:\users\usuario\downloads\tp1\tp\tp1_ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"CedulaEleitoral.h"
+	"Hash_Apuracao.h"
+	"GerenciaEstruturas.h"
+	"Ordenacao.h"
+	"Constantes.h"
+	"Hash_ABP.h"
+	"Hash_AVL.h"
+	"Hash_Duplo.h"
+
+1492204050 c:\users\usuario\downloads\tp1\tp\tp1_ed2\ordenacao.h
+	"hash_apuracao.h"
+
+1492207800 source:c:\users\usuario\downloads\tp1\tp\tp1_ed2\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"Ordenacao.h"
+

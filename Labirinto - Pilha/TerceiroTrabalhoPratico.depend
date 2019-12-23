@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1482083309 source:f:\diego\ifet\2º período\estrutura de dados\terceirotrabalho\terceirotrabalhopratico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arquivo.h"
+
+1482083565 "
+
+1482083565 source:f:\diego\ifet\2º período\estrutura de dados\terceirotrabalho\terceirotrabalhopratico\arquivo.c
+	<string.h>
+	<stdlib.h>
+	"Arquivo.h"
+
+1482080995 f:\diego\ifet\2º período\estrutura de dados\terceirotrabalho\terceirotrabalhopratico\arquivo.h
+	<stdio.h>
+
+1482080995 
+
+1482232001 source:/home/diego/Documentos/Ifet/2Âº PerÃ­odo/Estrutura de Dados/TerceiroTrabalhoPratico/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arquivo.h"
+	"Estruturas.h"
+
+1482232075 /home/diego/Documentos/Ifet/2Âº PerÃ­odo/Estrutura de Dados/TerceiroTrabalhoPratico/Arquivo.h
+	<stdio.h>
+
+1482230695 source:/home/diego/Documentos/Ifet/2Âº PerÃ­odo/Estrutura de Dados/TerceiroTrabalhoPratico/Arquivo.c
+	<string.h>
+	<stdlib.h>
+	"Arquivo.h"
+
+1482231983 source:/home/diego/Documentos/Ifet/2Âº PerÃ­odo/Estrutura de Dados/TerceiroTrabalhoPratico/Estruturas.c
+	<stdio.h>
+	<stdlib.h>
+	"Estruturas.h"
+
+1482231952 /home/diego/Documentos/Ifet/2Âº PerÃ­odo/Estrutura de Dados/TerceiroTrabalhoPratico/Estruturas.h
+
+1482412372 source:f:\d\terceirotrabalhopratico\arquivo.c
+	<string.h>
+	<stdlib.h>
+	"Arquivo.h"
+
+1482248406 f:\d\terceirotrabalhopratico\arquivo.h
+	<stdio.h>
+
+1482408934 source:f:\d\terceirotrabalhopratico\estruturas.c
+	<stdio.h>
+	<stdlib.h>
+	"Estruturas.h"
+
+1482410975 f:\d\terceirotrabalhopratico\estruturas.h
+
+1482413271 source:f:\d\terceirotrabalhopratico\labirinto.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	<unistd.h>
+	"Arquivo.h"
+	"Estruturas.h"
+	"Labirinto.h"
+
+1482327741 f:\d\terceirotrabalhopratico\labirinto.h
+
+1482232001 source:f:\d\terceirotrabalhopratico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arquivo.h"
+	"Estruturas.h"
+
+1482439355 source:e:\diego\ifet\2º período\estrutura de dados\terceirotrabalho\terceirotrabalhopratico\arquivo.c
+	<string.h>
+	<stdlib.h>
+	"Arquivo.h"
+
+1482248406 e:\diego\ifet\2º período\estrutura de dados\terceirotrabalho\terceirotrabalhopratico\arquivo.h
+	<stdio.h>
+
+1482408934 source:e:\diego\ifet\2º período\estrutura de dados\terceirotrabalho\terceirotrabalhopratico\estruturas.c
+	<stdio.h>
+	<stdlib.h>
+	"Estruturas.h"
+
+1482410975 e:\diego\ifet\2º período\estrutura de dados\terceirotrabalho\terceirotrabalhopratico\estruturas.h
+
+1482440527 source:e:\diego\ifet\2º período\estrutura de dados\terceirotrabalho\terceirotrabalhopratico\labirinto.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	<unistd.h>
+	"Arquivo.h"
+	"Estruturas.h"
+	"Labirinto.h"
+
+1482327741 e:\diego\ifet\2º período\estrutura de dados\terceirotrabalho\terceirotrabalhopratico\labirinto.h
+

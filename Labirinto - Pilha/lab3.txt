@@ -1,0 +1,11 @@
+10;10;
+xxxxxxxxxx
+xb  bbb  s
+xxxxxxx xx
+xcb  c  xx
+x    c  xx
+x  c c  xx
+x  c b  xx
+x    c  xx
+xxxxxxxxxx
+xxxxxxxxxx

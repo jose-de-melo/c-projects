@@ -1,0 +1,24 @@
+#ifndef CONSTANTES_H_INCLUDED
+#define CONSTANTES_H_INCLUDED
+
+#define TAMANHO_CHAVE 9
+
+#define PRESIDENTE 0
+#define SENADOR 1
+
+#define VAZIO 0
+#define OCUPADO 1
+#define REMOVIDO 2
+#define NAO_ENCONTRADO -2
+
+#define TABELA_HASH_ABERTA 1
+#define TABELA_HASH_ABP 2
+#define AVL 3
+
+#define VOTAR 0
+#define REMOVER 1
+#define APURAR 2
+#define ENCERRAR 3
+
+
+#endif // CONSTANTES_H_INCLUDED

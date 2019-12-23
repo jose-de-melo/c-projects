@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1498561696 source:c:\users\usuario\desktop\tp2_ed2\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grafo.h"
+
+1498561650 c:\users\usuario\desktop\tp2_ed2\grafo.h
+	"Estruturas.h"
+	"ListaEncadeada.h"
+
+1498561585 c:\users\usuario\desktop\tp2_ed2\estruturas.h
+
+1498561645 c:\users\usuario\desktop\tp2_ed2\listaencadeada.h
+	"Estruturas.h"
+
+1498561706 source:c:\users\usuario\desktop\tp2_ed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grafo.h"
+
+1498561802 source:c:\users\usuario\desktop\tp2_ed2\listaencadeada.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ListaEncadeada.h"
+

@@ -1,0 +1,21 @@
+20;38;
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+sb  bbb     xc   x    x x    x  xxx  x
+xxxxxxx xx  xbbx    x x x   x x x  x x
+xcbx c  xx  xxxxxxxxx x x   xxx xxx  x
+x  c c  xx  x         x x   x x x  x x
+x  c c  xx  x xxxxxxx x xxx x x xxx  x
+x  c b  xx          x xxxxxxxxxxxxxxxx
+x    c  xxxxxxxxx  x  x              x
+xxxxxxxxxx         x xxxxx           x
+xxxxxxxxxxxxxxxxxx x x   x  xxxxxxxbxx
+xxxxxxxxxxxxxxxxxx x x x  x       xbxx
+xb  bbb            x x bx x xxxxx xbxx
+xxxxxxx xx  cccccccx x bx x     x xcxx
+xcb  c  xx         x   bx xxxxx x xbxx
+x    c  xxxxxxxxxx xxxxx  x   x x xbxx
+x  c c  xx         x     x  c x x xbxx
+x  c b  xxbbbbbbb  x xxxx  c  x x xbxx
+x    c  xxxxxxxxx  x xb   c  x  x x xx
+xxxxxxxxxx         x    xc      x   xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
